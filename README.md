@@ -11,7 +11,7 @@ More details can be found in the paper: [Computational intelligence in stochasti
 ## Table of Contents
 
 - [Background](#background)
-- [Digital microstructures](#digital microstructures)
+- [Data](#data)
 - [Environment](#environment)
 - [Visualization](#visualization)
 - [License](#license)
@@ -24,11 +24,14 @@ Understanding microstructure-property relationships (MPRs) in random porous medi
 
 
 
-## Digital microstructures
+## Data
 
 A set of bi-phase porous microstrcutures with varying porosity: F_stone_8, F_stone_10, F_stone_12, F_stone_15, F_stone_18, F_stone_21, F_stone_25.
+
 Multi-phase microstructures: Three-phase microstructure 1, Three-phase microstructure 2, Four-phase microstructure.
+
 Bioinspired microstructures: Isotropic, Columnar, Lamellar.
+
 More 3D digital microstructures with diverse morphologies will be uploaded soon.
 
 
