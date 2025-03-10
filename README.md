@@ -5,6 +5,8 @@
 
 This a "Dataset" of 3D digital microstructures that can be serves as benchmark cases for validating stochastic microstructure reconstruction methods. 
 
+The dataset is still under construction, and more 3D digital microstructures with diverse morphologies will be uploaded soon.
+
 More details can be found in the paper: [Computational intelligence in stochastic reconstruction of porous microstructures for image-based poro/micro-mechanical modeling.pdf]
 
 
@@ -32,7 +34,7 @@ Understanding microstructure-property relationships (MPRs) in random porous medi
 
 (3) A set of 3D bioinspired microstructures: Isotropic, Columnar, & Lamellar.
 
-More 3D digital microstructures with diverse morphologies will be uploaded soon.
+The dataset is still under construction, and more 3D digital microstructures with diverse morphologies will be uploaded soon.
 
 
 ## Environment
